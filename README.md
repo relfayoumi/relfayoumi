@@ -1,5 +1,13 @@
-### Hi there 👋
-
+# Hi there 👋
+## this is header 2
+### this is header 3 
+**this is bold text**
+*this is italized text*
+1. one
+2. two
+3. three
+'code'
+------------
 <!--
 **relfayoumi/relfayoumi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
