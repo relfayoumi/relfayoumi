@@ -1,22 +1,22 @@
 ## Hello!
 ### Who are you?
-I'm a **student from Nora frances** henderson that wants to keep learning!
+I'm a **student from Nora frances** henderson that wants to keep learning 🧐.
 
 
 ### What tools/software do you use?
-I use **Arduino IDE, replit.com, w3schools**, and plan to look for new ways to code!
+I use **Arduino IDE, replit.com, w3schools**, and plan to look for new ways to code 🖥️!
 
 
 ### What programming languages do you know?
-Currently I know **C/C++, Python, and learning more HTML**.
+Currently I know **C/C++, Python, and learning more HTML** 👨‍💻.
 
 
 ### What do your projects look like?
-I mostly use **Hardware** which I use to program **Arduinos**.
+I mostly use **Hardware** which I use to program **Arduinos** ⚙️.
 
 
 ### Why did you pursue your coding career?
-I started coding since elementary and loved the idea of being able to **create whatever you want**!
+I started coding since elementary and loved the idea of being able to **create whatever you want** 🧠!
 <!--
 **relfayoumi/relfayoumi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
