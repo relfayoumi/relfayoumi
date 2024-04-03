@@ -3,12 +3,12 @@
 I'm a **student from Nora frances** henderson that wants to keep learning 🧐.
 
 
-### What tools/software do you use?
-I use **Arduino IDE, replit.com, w3schools**, and plan to look for new ways to code 🖥️!
-
-
 ### What programming languages do you know?
 Currently I know **C/C++, Python, and learning more HTML** 👨‍💻.
+
+
+### What tools/software do you use?
+I use **Arduino IDE, replit.com, w3schools**, and plan to look for new ways to code 🖥️!
 
 
 ### What do your projects look like?
