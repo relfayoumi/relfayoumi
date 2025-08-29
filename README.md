@@ -22,7 +22,7 @@ I started coding since elementary and loved the idea of being able to *create wh
 I'm *learning how to use OpenCV* to its fullest 📖!
 
 ### What kinds of projects do you upload?
-Currently my school programming evaluations but looking forward to upload different types of programming languages🎓!
+Currently my own niche projects but looking forward to upload different types of programming languages🎓!
 <!--
 **relfayoumi/relfayoumi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
