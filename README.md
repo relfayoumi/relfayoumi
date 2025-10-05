@@ -28,6 +28,9 @@ Educational website explaining the Software Development Life Cycle stages - a co
 ### 💼 [SDLC-Project](https://github.com/relfayoumi/SDLC-Project)
 Client-focused website project demonstrating professional web development practices and clean design principles.
 
+### 🖥️ [AI Screen Share](./screen-share.html)
+A web-based screen capture tool with AI integration capabilities - capture and analyze your screen content in real-time for AI processing.
+
 ## 🔧 Tools & Platforms
 - **IDEs & Editors:** VS Code, Arduino IDE
 - **Development:** Git, GitHub, Replit
